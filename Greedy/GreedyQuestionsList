@@ -9,4 +9,32 @@ GFG-> Shortest Job first ==> https://www.geeksforgeeks.org/problems/shortest-job
 GFG-> Job Sequencing Problem ==> https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
 GFG-> N meetings in one room ==> https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
 
+
+
+
+================================================================================================================================
 LC 1834. Single-Threaded CPU ==> https://leetcode.com/problems/single-threaded-cpu/description/      <=== not done
+
+Here are a few list of greedy questions given in recent leetcode contests and top interview questions and useful for online assessments
+
+
+Greedy(Find Maxima or find minima technique):
+Leetcode 2567-https://leetcode.com/problems/minimum-score-by-changing-two-elements/
+Leetcode 2541-https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/
+Leetcode 2611-https://leetcode.com/problems/mice-and-cheese/
+Leetcode 2808-https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/
+Leetcode 2800-https://leetcode.com/problems/shortest-string-that-contains-three-strings/
+Leetcode 2654-https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/
+Leetcode 134-https://leetcode.com/problems/gas-station/
+Leetcode 135-https://leetcode.com/problems/candy
+Leetcode 45-https://leetcode.com/problems/jump-game-ii/
+Leetcode 1833-https://leetcode.com/problems/maximum-ice-cream-bars/
+Leetcode 2244-https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/solutions/
+Leetcode 881-https://leetcode.com/problems/boats-to-save-people/
+Leetcode 2240-https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/solutions/
+Leetcode 2279-https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
+Leetcode 2405-https://leetcode.com/problems/optimal-partition-of-string/
+Leetcode 2439-https://leetcode.com/problems/minimize-maximum-of-array/
+Leetcode 2734-https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/
+Leetcode 1247-https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
+Leetcode 2410-https://leetcode.com/problems/maximum-matching-of-players-with-trainers/

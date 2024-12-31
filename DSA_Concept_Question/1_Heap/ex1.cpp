@@ -1,5 +1,5 @@
-//MaxHeap Implementation
-//========================
+//MaxHeap Implementation by inserting element one by one.
+//=========================================================
 #include <bits/stdc++.h>
 using namespace std;
 class MaxHeap

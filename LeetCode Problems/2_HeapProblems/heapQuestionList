@@ -15,7 +15,7 @@ LC #215 - Kth largest number in an array   ==> Done
 LC #973 - K closest points to origin
 LC #347 - Top k frequent elements/numbers ==> Done
 LC #692 - Top k frequent words ==> Done
-LC #264 - Ugly Number II
+LC #264 - Ugly Number II   ==> Done(By PQ and DP both)
 LC #451 - Frequency Sort
 LC #703 - Kth largest number in a stream
 LC #767 - Reorganize String

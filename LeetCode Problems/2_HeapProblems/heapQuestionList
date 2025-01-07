@@ -12,16 +12,18 @@ Below list includes some of the most common questions asked in most of the compa
 
 Top K Pattern
 LC #1046 - Last Stone Weight ==> Done
+LC #1337 - The K Weakest Rows in a Matrix ==> Done
 LC #215 - Kth largest number in an array   ==> Done
-LC #973 - K closest points to origin
 LC #347 - Top k frequent elements/numbers ==> Done
 LC #692 - Top k frequent words ==> Done
 LC #264 - Ugly Number II   ==> Done(By PQ and DP both)
 LC #451 - Frequency Sort  ==> Done
+LC #1985. Find the Kth Largest Integer in the Array ==> Done
 LC #703 - Kth largest number in a stream
 LC #767 - Reorganize String
 LC #358 - Rearrange string K distance apart
 LC #1439 - Kth smallest sum of a matrix with sorted rows
+LC #973 - K closest points to origin
 
 
 Merge K sorted pattern

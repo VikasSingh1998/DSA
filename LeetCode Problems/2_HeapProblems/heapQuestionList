@@ -9,7 +9,7 @@ Minimum Number Pattern
 All questions under one patterns has some similarities in terms of using HEAP as a data structure. 
 Completing these questions would gurantee you mastery on the HEAP data structure. 
 Below list includes some of the most common questions asked in most of the companies.
-
+------------------------------------------------------------------------------------------------------
 Top K Pattern
 LC #1046 - Last Stone Weight ==> Done
 LC #1337 - The K Weakest Rows in a Matrix ==> Done
@@ -21,23 +21,22 @@ LC #451 - Frequency Sort  ==> Done
 LC #1985. Find the Kth Largest Integer in the Array ==> Done
 LC #703 - Kth largest number in a stream
 LC #767 - Reorganize String ==> Done
-LC #358 - Rearrange string K distance apart
+LC #358 - Rearrange string K distance apart (HARD) ==> 
+Note ==> LC PAID(see lintcode) ==> Lintcode 907 · Rearrange String k Distance Apart
+
 LC #1439 - Kth smallest sum of a matrix with sorted rows
 LC #973 - K closest points to origin
-
-
+-------------------------------------------------------------------------------------------------
 Merge K sorted pattern
 LC #23 - Merge K sorted
 LC #373 - K pairs with the smallest sum
 LC #378 - K smallest numbers in M-sorted lists
-
-
+-------------------------------------------------------------------------------------------------
 Two Heaps Pattern
 LC #295 - Find median from a data stream
 LC #480 - Sliding window Median
 LC #502 - Maximize Capital/IPO
-
-
+-------------------------------------------------------------------------------------------------
 Minimum number Pattern
 LC #1167 - Minimum Cost to connect sticks/ropes
 LC #253 - Meeting Rooms II
@@ -63,6 +62,5 @@ Merge K sorted Linked Lists (Important) .
 Running Median (Important) .
 Check if Binary Tree is a Heap .
 Kth largest Sum Contiguous sub array .
-
 ======================================================
 https://www.geeksforgeeks.org/top-50-problems-on-heap-data-structure-asked-in-interviews/   ==> Do later GFG

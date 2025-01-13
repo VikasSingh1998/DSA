@@ -24,12 +24,12 @@ LC #767 - Reorganize String ==> Done
 LC #358 - Rearrange string K distance apart (HARD) ==> Not Available On Leetcode
 Note ==> LC PAID(see lintcode) ==> Lintcode 907 · Rearrange String k Distance Apart
 
-LC #1439 - Kth smallest sum of a matrix with sorted rows
 LC #973 - K closest points to origin
 -------------------------------------------------------------------------------------------------
 Merge K sorted pattern
 LC #23 - Merge K sorted
 LC #373 - K pairs with the smallest sum
+LC #1439 - Kth smallest sum of a matrix with sorted rows
 LC #378 - K smallest numbers in M-sorted lists
 -------------------------------------------------------------------------------------------------
 Two Heaps Pattern

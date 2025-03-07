@@ -1,1 +1,66 @@
+Problem Patterns where HEAP is used
+Based on my understanding, different questions where HEAP is common data structure to use can be categorized in following 4 categories:
+------------------------------------------
+Top K Pattern
+Merge K Sorted Pattern
+Two Heaps Pattern
+Minimum Number Pattern
 
+All questions under one patterns has some similarities in terms of using HEAP as a data structure. 
+Completing these questions would gurantee you mastery on the HEAP data structure. 
+Below list includes some of the most common questions asked in most of the companies.
+------------------------------------------------------------------------------------------------------
+Top K Pattern
+LC #1046 - Last Stone Weight ==> Done
+LC #1337 - The K Weakest Rows in a Matrix ==> Done
+LC #215 - Kth largest number in an array   ==> Done
+LC #347 - Top k frequent elements/numbers ==> Done
+LC #692 - Top k frequent words ==> Done
+LC #264 - Ugly Number II   ==> Done(By PQ and DP both)
+LC #451 - Frequency Sort  ==> Done
+LC #1985. Find the Kth Largest Integer in the Array ==> Done
+LC #703 - Kth largest number in a stream
+LC #767 - Reorganize String ==> Done
+LC #358 - Rearrange string K distance apart (HARD) ==> Not Available On Leetcode
+Note ==> LC PAID(see lintcode) ==> Lintcode 907 · Rearrange String k Distance Apart
+
+LC #973 - K closest points to origin
+-------------------------------------------------------------------------------------------------
+Merge K sorted pattern
+LC #23 - Merge K sorted
+LC #373 - K pairs with the smallest sum
+LC #1439 - Kth smallest sum of a matrix with sorted rows
+LC #378 - K smallest numbers in M-sorted lists
+-------------------------------------------------------------------------------------------------
+Two Heaps Pattern
+LC #295 - Find median from a data stream
+LC #480 - Sliding window Median
+LC #502 - Maximize Capital/IPO
+-------------------------------------------------------------------------------------------------
+Minimum number Pattern
+LC #1167 - Minimum Cost to connect sticks/ropes
+LC #253 - Meeting Rooms II
+LC #759 - Employee free time
+LC #857 - Minimumcost to hire K workers
+LC #621 - Minimum number of CPU (Task scheduler)
+LC #871 - Minimum number of Refueling stops
+====================================================================
+More Questions
+================
+Implementation of Heap(Min Heap & Max Heap) .
+Inplace Heap Sort .
+Kth Smallest Element / Kth Largest Element .
+K largest & Smallest Elements in array .
+K sorted array .
+Top K frequent Numbers .
+Frequency sort .
+K Closest points to origin .
+K Closest Numbers .
+Connect ropes to minimize the cost ( GFG ) .
+Merge K sorted Arrays (Important) .
+Merge K sorted Linked Lists (Important) .
+Running Median (Important) .
+Check if Binary Tree is a Heap .
+Kth largest Sum Contiguous sub array .
+======================================================
+https://www.geeksforgeeks.org/top-50-problems-on-heap-data-structure-asked-in-interviews/   ==> Do later GFG

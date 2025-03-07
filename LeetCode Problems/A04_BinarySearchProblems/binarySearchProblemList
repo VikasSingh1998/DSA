@@ -79,7 +79,6 @@ Leetcode Binary Search Problems
 1201. Ugly Number III
 704. Binary Search
 69. Sqrt(x)
-278. First Bad Version
 2187. Minimum Time to Complete Trips
 https://leetcode.com/discuss/interview-question/777057/the-painters-partition-problem
 https://www.codechef.com/problems/PREZ
@@ -88,7 +87,7 @@ Easy
 ------
 35	Search Insert Position   ==> Done
 69	Sqrt(x)
-278	First Bad Version
+278	First Bad Version ==> Done
 704	Binary Search
 744	Find Smallest Letter Greater Than Target
 852	Peak Index in a Mountain Array

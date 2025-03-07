@@ -41,8 +41,8 @@ https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 Distribute n candies among k people.
 https://leetcode.com/problems/distribute-candies-to-people/
 ================================================================
-All Binary Search Problems
-
+Leetcode Binary Search Problems
+----------------------------------------
 1552. Magnetic Force Between Two Balls
 1870. Minimum Speed to Arrive on Time
 875. Koko Eating Bananas
@@ -79,7 +79,6 @@ All Binary Search Problems
 1201. Ugly Number III
 704. Binary Search
 69. Sqrt(x)
-35. Search Insert Position
 278. First Bad Version
 2187. Minimum Time to Complete Trips
 https://leetcode.com/discuss/interview-question/777057/the-painters-partition-problem
@@ -87,7 +86,7 @@ https://www.codechef.com/problems/PREZ
 =========================================================================
 Easy
 ------
-35	Search Insert Position
+35	Search Insert Position   ==> Done
 69	Sqrt(x)
 278	First Bad Version
 704	Binary Search

@@ -93,9 +93,8 @@ Easy
 852	Peak Index in a Mountain Array ==> Done
 1150	Check If a Number Is Majority Element in a Sorted Array
 1385	Find the Distance Value Between Two Arrays ==> Done
-1480	Running Sum of 1d Array
-1539	Kth Missing Positive Number
-1672	Richest Customer Wealth
+1539	Kth Missing Positive Number  ==> Done
+1672	Richest Customer Wealth 
 1760	Minimum Limit of Balls in a Bag
 1894	Find the Student that Will Replace the Chalk
 1920	Build Array from Permutation
@@ -117,6 +116,8 @@ Easy
 658	Find K Closest Elements
 875	Koko Eating Bananas
 1011	Capacity To Ship Packages Within D Days
+1283 Find the Smallest Divisor Given a Threshold
+1231 Divide Chocolate
 1235	Maximum Profit in Job Scheduling
 1482	Minimum Number of Days to Make m Bouquets
 1539	Kth Missing Positive Number

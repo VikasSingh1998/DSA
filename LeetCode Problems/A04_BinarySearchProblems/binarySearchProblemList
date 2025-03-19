@@ -94,7 +94,6 @@ Easy
 1150	Check If a Number Is Majority Element in a Sorted Array
 1385	Find the Distance Value Between Two Arrays ==> Done
 1539	Kth Missing Positive Number  ==> Done
-1760	Minimum Limit of Balls in a Bag
 1894	Find the Student that Will Replace the Chalk
 1920	Build Array from Permutation
 2089	Find Target Indices After Sorting Array
@@ -146,4 +145,7 @@ Easy
 2398	Maximum Number of Robots Within Budget
 2458	Height of Binary Tree After Subtree Removal Queries
 2528	Maximize the Minimum Powered City
----------------------------------------------------------------
+=================================================================
+Binary Search on Answer_Range:
+------------------------------
+1760	Minimum Limit of Balls in a Bag

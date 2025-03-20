@@ -111,7 +111,6 @@ Easy
 300	Longest Increasing Subsequence
 540	Single Element in a Sorted Array
 658	Find K Closest Elements
-875	Koko Eating Bananas
 1011	Capacity To Ship Packages Within D Days
 1283 Find the Smallest Divisor Given a Threshold
 1231 Divide Chocolate
@@ -148,3 +147,7 @@ Easy
 Binary Search on Answer_Range:
 ------------------------------
 1760	Minimum Limit of Balls in a Bag ==> Done
+875	Koko Eating Bananas ==> Done
+774. Minimize Max Distance to Gas Station ==> 
+
+

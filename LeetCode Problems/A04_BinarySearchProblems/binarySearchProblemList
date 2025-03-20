@@ -111,11 +111,9 @@ Easy
 300	Longest Increasing Subsequence
 540	Single Element in a Sorted Array
 658	Find K Closest Elements
-1011	Capacity To Ship Packages Within D Days
 1283 Find the Smallest Divisor Given a Threshold
 1231 Divide Chocolate
 1235	Maximum Profit in Job Scheduling
-1482	Minimum Number of Days to Make m Bouquets
 1539	Kth Missing Positive Number
 1547	Minimum Cost to Cut a Stick
 1898	Maximum Number of Removable Characters
@@ -145,9 +143,11 @@ Easy
 2528	Maximize the Minimum Powered City
 =================================================================
 Binary Search on Answer_Range:
-------------------------------
+--------------------------------
 1760	Minimum Limit of Balls in a Bag ==> Done
 875	Koko Eating Bananas ==> Done
 774. Minimize Max Distance to Gas Station ==> 
-
-
+2226 Maximum-candies-allocated-to-k-children
+2064 Minimized-maximum-of-products-distributed-to-any-store
+1482	Minimum Number of Days to Make m Bouquets 
+1011	Capacity To Ship Packages Within D Days

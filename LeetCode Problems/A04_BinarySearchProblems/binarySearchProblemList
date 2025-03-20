@@ -44,14 +44,6 @@ https://leetcode.com/problems/distribute-candies-to-people/
 Leetcode Binary Search Problems
 ----------------------------------------
 1552. Magnetic Force Between Two Balls
-1870. Minimum Speed to Arrive on Time
-875. Koko Eating Bananas
-1011. Capacity To Ship Packages Within D Days
-1283. Find the Smallest Divisor Given a Threshold
-1482. Minimum Number of Days to Make m Bouquets
-2064. Minimized Maximum of Products Distributed to Any Store
-1231. Divide Chocolate
-774. Minimize Max Distance to Gas Station
 410. Split Array Largest Sum
 1539. Kth Missing Positive Number
 162. Find Peak Element
@@ -74,7 +66,6 @@ Leetcode Binary Search Problems
 34. Find First and Last Position of Element in Sorted Array
 774. Minimize Max Distance to Gas Station
 1150. Check If a Number Is Majority Element in a Sorted Array
-1482. Minimum Number of Days to Make m Bouquets
 981. Time Based Key-Value Store
 1201. Ugly Number III
 704. Binary Search
@@ -111,8 +102,7 @@ Easy
 300	Longest Increasing Subsequence
 540	Single Element in a Sorted Array
 658	Find K Closest Elements
-1283 Find the Smallest Divisor Given a Threshold
-1231 Divide Chocolate
+
 1235	Maximum Profit in Job Scheduling
 1539	Kth Missing Positive Number
 1547	Minimum Cost to Cut a Stick
@@ -141,13 +131,19 @@ Easy
 2398	Maximum Number of Robots Within Budget
 2458	Height of Binary Tree After Subtree Removal Queries
 2528	Maximize the Minimum Powered City
-=================================================================
+==========================================================================
 Binary Search on Answer_Range:
 --------------------------------
 1760	Minimum Limit of Balls in a Bag ==> Done
 875	Koko Eating Bananas ==> Done
 774. Minimize Max Distance to Gas Station ==> 
-2226 Maximum-candies-allocated-to-k-children
-2064 Minimized-maximum-of-products-distributed-to-any-store
+2226 Maximum-candies-allocated-to-k-children ==> Done
+2064 Minimized-maximum-of-products-distributed-to-any-store 
 1482	Minimum Number of Days to Make m Bouquets 
 1011	Capacity To Ship Packages Within D Days
+1802 Maximum Value at a Given Index in a Bounded Array
+1283 Find the Smallest Divisor Given a Threshold
+1231 Divide Chocolate
+1870. Minimum Speed to Arrive on Time
+1898. Maximum Number of Removable Characters
+

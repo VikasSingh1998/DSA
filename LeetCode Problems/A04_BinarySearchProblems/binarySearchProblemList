@@ -138,11 +138,15 @@ Binary Search on Answer_Range:
 2226 Maximum-candies-allocated-to-k-children ======> Done
 1482	Minimum Number of Days to Make m Bouquets  ======> Done
 1011	Capacity To Ship Packages Within D Days ======> Done
-1802 Maximum Value at a Given Index in a Bounded Array 
-1283 Find the Smallest Divisor Given a Threshold
+1283 Find the Smallest Divisor Given a Threshold  =====> Done
+1802 Maximum Value at a Given Index in a Bounded Array  
 2064 Minimized-maximum-of-products-distributed-to-any-store 
 1231 Divide Chocolate
 1870. Minimum Speed to Arrive on Time
 1898. Maximum Number of Removable Characters
 774. Minimize Max Distance to Gas Station ==> NA**
 410	Split Array Largest Sum 
+---------------------------------------------------------------------------------
+Some Useful links For BS
+------------------------
+https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/777019/python-clear-explanation-powerful-ultimate-binary-search-template-solved-many-problems/

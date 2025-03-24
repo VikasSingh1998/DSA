@@ -43,7 +43,7 @@ https://leetcode.com/problems/distribute-candies-to-people/
 ================================================================
 Leetcode Binary Search Problems
 ----------------------------------------
-1552. Magnetic Force Between Two Balls
+
 410. Split Array Largest Sum
 1539. Kth Missing Positive Number
 162. Find Peak Element
@@ -66,7 +66,7 @@ Leetcode Binary Search Problems
 34. Find First and Last Position of Element in Sorted Array
 774. Minimize Max Distance to Gas Station
 981. Time Based Key-Value Store
-2187. Minimum Time to Complete Trips
+
 https://leetcode.com/discuss/interview-question/777057/the-painters-partition-problem
 https://www.codechef.com/problems/PREZ
 =========================================================================
@@ -123,7 +123,7 @@ Easy
 2127	Maximum Employees to Be Invited to a Meeting
 2188	Minimum Time to Finish the Race
 2334	Subarray With Elements Greater Than Varying Threshold
-2398	Maximum Number of Robots Within Budget
+
 2458	Height of Binary Tree After Subtree Removal Queries
 2528	Maximize the Minimum Powered City
 ==========================================================================
@@ -136,13 +136,16 @@ Binary Search on Answer_Range:
 1011	Capacity To Ship Packages Within D Days ======> Done
 1283 Find the Smallest Divisor Given a Threshold  =====> Done
 1802 Maximum Value at a Given Index in a Bounded Array  
-2064 Minimized-maximum-of-products-distributed-to-any-store 
+2064 Minimized-maximum-of-products-distributed-to-any-store  =====> Done
+2187. Minimum Time to Complete Trips 
+1552. Magnetic Force Between Two Balls
 1231 Divide Chocolate
 1870. Minimum Speed to Arrive on Time
 1898. Maximum Number of Removable Characters
 774. Minimize Max Distance to Gas Station ==> NA**
 410	Split Array Largest Sum 
 1201. Ugly Number III
+2398	Maximum Number of Robots Within Budget
 ---------------------------------------------------------------------------------
 Some Useful links For BS
 ------------------------

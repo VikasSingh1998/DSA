@@ -65,11 +65,7 @@ Leetcode Binary Search Problems
 1287. Element Appearing More Than 25% In Sorted Array
 34. Find First and Last Position of Element in Sorted Array
 774. Minimize Max Distance to Gas Station
-1150. Check If a Number Is Majority Element in a Sorted Array
 981. Time Based Key-Value Store
-1201. Ugly Number III
-704. Binary Search
-69. Sqrt(x)
 2187. Minimum Time to Complete Trips
 https://leetcode.com/discuss/interview-question/777057/the-painters-partition-problem
 https://www.codechef.com/problems/PREZ
@@ -146,6 +142,7 @@ Binary Search on Answer_Range:
 1898. Maximum Number of Removable Characters
 774. Minimize Max Distance to Gas Station ==> NA**
 410	Split Array Largest Sum 
+1201. Ugly Number III
 ---------------------------------------------------------------------------------
 Some Useful links For BS
 ------------------------

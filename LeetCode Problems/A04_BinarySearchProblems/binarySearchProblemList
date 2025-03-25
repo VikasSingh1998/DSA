@@ -101,10 +101,10 @@ Easy
 
 1235	Maximum Profit in Job Scheduling
 1539	Kth Missing Positive Number
-1547	Minimum Cost to Cut a Stick
+
 1898	Maximum Number of Removable Characters
 2054	Two Best Non-Overlapping Events
-2187	Minimum Time to Complete Trips
+
 2334	Subarray With Elements Greater Than Varying Threshold
 -------------------------------------------------------------------
 4	Median of Two Sorted Arrays
@@ -125,7 +125,7 @@ Easy
 2334	Subarray With Elements Greater Than Varying Threshold
 
 2458	Height of Binary Tree After Subtree Removal Queries
-2528	Maximize the Minimum Powered City
+
 ==========================================================================
 Binary Search on Answer_Range:
 --------------------------------
@@ -147,6 +147,7 @@ Binary Search on Answer_Range:
 410	Split Array Largest Sum 
 1201. Ugly Number III
 2398	Maximum Number of Robots Within Budget
+2528	Maximize the Minimum Powered City
 ---------------------------------------------------------------------------------
 Some Useful links For BS
 ------------------------

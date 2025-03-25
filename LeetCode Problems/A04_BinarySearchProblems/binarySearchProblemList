@@ -48,7 +48,7 @@ Leetcode Binary Search Problems
 287. Find the Duplicate Number
 209. Minimum Size Subarray Sum
 1760. Minimum Limit of Balls in a Bag
-1631. Path With Minimum Effort
+
 2070. Most Beautiful Item for Each Query
 475. Heaters
 1818. Minimum Absolute Sum Difference
@@ -121,19 +121,25 @@ Binary Search on Answer_Range:
 1482	Minimum Number of Days to Make m Bouquets  ======> Done
 1011	Capacity To Ship Packages Within D Days ======> Done
 1283 Find the Smallest Divisor Given a Threshold  =====> Done
-1802 Maximum Value at a Given Index in a Bounded Array  
 2064 Minimized-maximum-of-products-distributed-to-any-store  =====> Done
 2187. Minimum Time to Complete Trips =====> Done
 1552. Magnetic Force Between Two Balls  =====> Done
-2141. Maximum Running Time of N Computers
-1231 Divide Chocolate
-1870. Minimum Speed to Arrive on Time
+1870. Minimum Speed to Arrive on Time  
+1802 Maximum Value at a Given Index in a Bounded Array  
 1898. Maximum Number of Removable Characters
-774. Minimize Max Distance to Gas Station ==> NA**
+774. Minimize Max Distance to Gas Station ======> ######NA
+1231 Divide Chocolate   ======> ######NA
 410	Split Array Largest Sum 
 1201. Ugly Number III
 2398	Maximum Number of Robots Within Budget
 2528	Maximize the Minimum Powered City
+
+==========================================================
+BS Hard Problems
+-----------------
+2141. Maximum Running Time of N Computers
+
+---------------------------------------------------
 ---------------------------------------------------------------------------------
 Some Useful links For BS
 ------------------------

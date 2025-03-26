@@ -78,7 +78,8 @@ Easy
 1539	Kth Missing Positive Number  =====> Done
 34	Find First and Last Position of Element in Sorted Array =====> Done
 1150	Check If a Number Is Majority Element in a Sorted Array =====> #NA
-2089	Find Target Indices After Sorting Array
+2089	Find Target Indices After Sorting Array =====> Done, Note: 2nd approach by counting the value is better than Binary Search.
+
 2055. Plates Between Candles
 2185	Counting Words With a Given Prefix
 2300	Successful Pairs of Spells and Potions

@@ -3,3 +3,4 @@ LeetCode Question
 977  Squares of a Sorted Array    ==> Done
 1672  Richest Customer Wealth    ==> Done
 1894  Find the Student that Will Replace the Chalk ==> Done
+1920. Build Array from Permutation   ===> O(1) space solution is important.

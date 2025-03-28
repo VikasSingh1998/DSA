@@ -49,7 +49,7 @@ Leetcode Binary Search Problems
 209. Minimum Size Subarray Sum
 1760. Minimum Limit of Balls in a Bag
 
-2070. Most Beautiful Item for Each Query
+
 475. Heaters
 1818. Minimum Absolute Sum Difference
 1838. Frequency of the Most Frequent Element
@@ -80,7 +80,7 @@ Easy
 1150	Check If a Number Is Majority Element in a Sorted Array =====> #NA
 2089	Find Target Indices After Sorting Array =====> Done, Note: 2nd approach by counting the value is better than Binary Search.
 
-2055. Plates Between Candles
+
 2300	Successful Pairs of Spells and Potions
 2529	Maximum Count of Positive Integer and Negative Integer
 2788	Split Strings by Separator
@@ -133,6 +133,13 @@ Binary Search on Answer_Range:
 1201. Ugly Number III
 2398	Maximum Number of Robots Within Budget
 2528	Maximize the Minimum Powered City
+==========================================================
+BS for Queries
+---------------
+2055. Plates Between Candles
+2070. Most Beautiful Item for Each Query
+
+
 
 ==========================================================
 BS Hard Problems

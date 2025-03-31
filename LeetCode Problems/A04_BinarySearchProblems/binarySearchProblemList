@@ -129,10 +129,9 @@ Binary Search on Answer_Range:
 1898. Maximum Number of Removable Characters
 774. Minimize Max Distance to Gas Station ======> ######NA
 1231 Divide Chocolate   ======> ######NA
-410	Split Array Largest Sum 
 1201. Ugly Number III
-2398	Maximum Number of Robots Within Budget
-2528	Maximize the Minimum Powered City
+
+
 ==========================================================
 BS for Queries(IMPORTANT)
 --------------------------
@@ -144,6 +143,9 @@ BS for Queries(IMPORTANT)
 ==========================================================
 BS Hard Problems
 -----------------
+410	Split Array Largest Sum 
+2528	Maximize the Minimum Powered City
+2398	Maximum Number of Robots Within Budget
 2141. Maximum Running Time of N Computers
 
 ---------------------------------------------------

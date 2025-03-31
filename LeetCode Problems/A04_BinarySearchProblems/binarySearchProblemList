@@ -73,21 +73,21 @@ Easy
 278	First Bad Version ====> Done
 704	Binary Search =====> Done
 744	Find Smallest Letter Greater Than Target  ===> Done
-852	Peak Index in a Mountain Array =====> Done
-162	Find Peak Element ======> Done ####IMPORTANT
 1385	Find the Distance Value Between Two Arrays =====> Done
 1539	Kth Missing Positive Number  =====> Done
 34	Find First and Last Position of Element in Sorted Array =====> Done
 1150	Check If a Number Is Majority Element in a Sorted Array =====> #NA
 2089	Find Target Indices After Sorting Array =====> Done, Note: 2nd approach by counting the value is better than Binary Search.
-33	Search in Rotated Sorted Array  =====> Done
-81	Search in Rotated Sorted Array II
 
 
 2300	Successful Pairs of Spells and Potions
 2529	Maximum Count of Positive Integer and Negative Integer
 2788	Split Strings by Separator
 ---------------------------------------------------------------
+852	Peak Index in a Mountain Array =====> Done
+162	Find Peak Element ======> Done ####IMPORTANT
+33	Search in Rotated Sorted Array  =====> Done
+81	Search in Rotated Sorted Array II
 74	Search a 2D Matrix ==> Done
 240	Search a 2D Matrix II  ==> Done
 

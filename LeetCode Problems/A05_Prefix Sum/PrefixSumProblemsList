@@ -1,6 +1,9 @@
 Prefix Sum Questions
 =================================================
-2439. Minimize Maximum of Array
+2439. Minimize Maximum of Array ==> Do By Binary Search and Prefix Sum Both.
+                                |=> By using Binary Search --> Done
+                                |=> By using Prefix Sum --> 
+
 930. Binary Subarrays With Sum
 523. Continuous Subarray Sum
 363. Max Sum of Rectangle No Larger Than K

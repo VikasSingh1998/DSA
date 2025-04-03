@@ -78,7 +78,7 @@ Easy
 34	Find First and Last Position of Element in Sorted Array =====> Done
 1150	Check If a Number Is Majority Element in a Sorted Array =====> #NA
 2089	Find Target Indices After Sorting Array =====> Done, Note: 2nd approach by counting the value is better than Binary Search.
-
+540	Single Element in a Sorted Array  =======> 
 
 2300	Successful Pairs of Spells and Potions
 2529	Maximum Count of Positive Integer and Negative Integer
@@ -91,9 +91,7 @@ Easy
 74	Search a 2D Matrix ==> Done
 240	Search a 2D Matrix II  ==> Done
 
-209	Minimum Size Subarray Sum
-300	Longest Increasing Subsequence
-540	Single Element in a Sorted Array
+
 658	Find K Closest Elements
 1235	Maximum Profit in Job Scheduling
 2054	Two Best Non-Overlapping Events

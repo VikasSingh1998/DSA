@@ -24,7 +24,8 @@ Max Consecutive Ones III
 
 Subarrays with K Different Integers
 Fruit Into Baskets
-Shortest Subarray with Sum at Least K
+862. Shortest Subarray with Sum at Least K
+209. Minimum Size Subarray Sum
 Minimum Size Subarray Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/solutions/186683/c-java-python-sliding-window-o-1-space/
 ===========================================================================================

@@ -1,5 +1,5 @@
 Prefix Sum Questions
-=================================================
+============================================================================
 2439. Minimize Maximum of Array ==> Do By Binary Search and Prefix Sum Both.
                                 |=> By using Binary Search --> Done
                                 |=> By using Prefix Sum --> Done
@@ -8,8 +8,13 @@ Prefix Sum Questions
 930. Binary Subarrays With Sum
 523. Continuous Subarray Sum
 363. Max Sum of Rectangle No Larger Than K
+=============================================================================
+exactly(K) = atMost(K) - atMost(K-1) type
+------------------------------------------
 992. Subarrays with K Different Integers   ===> Done, exactly(K) = atMost(K) - atMost(K-1) type
-1248. Count Number of Nice Subarrays
+1248. Count Number of Nice Subarrays   ===>Done, exactly(K) = atMost(K) - atMost(K-1) type
+
+==============================================================================
 304. Range Sum Query 2D - Immutable
 
 689. Maximum Sum of 3 Non-Overlapping Subarrays

@@ -5,7 +5,6 @@ Prefix Sum Questions
                                 |=> By using Prefix Sum --> Done
 
 560. Subarray Sum Equals K  =======> Done
-930. Binary Subarrays With Sum
 523. Continuous Subarray Sum
 363. Max Sum of Rectangle No Larger Than K
 =============================================================================
@@ -13,6 +12,7 @@ exactly(K) = atMost(K) - atMost(K-1) type
 ------------------------------------------
 992. Subarrays with K Different Integers   ===> Done, exactly(K) = atMost(K) - atMost(K-1) type
 1248. Count Number of Nice Subarrays   ===>Done, exactly(K) = atMost(K) - atMost(K-1) type
+930. Binary Subarrays With Sum ======> Done, exactly(K) = atMost(K) - atMost(K-1) type
 
 ==============================================================================
 304. Range Sum Query 2D - Immutable

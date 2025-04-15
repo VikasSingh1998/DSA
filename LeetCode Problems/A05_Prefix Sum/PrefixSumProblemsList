@@ -14,6 +14,9 @@ exactly(K) = atMost(K) - atMost(K-1) type
 1248. Count Number of Nice Subarrays   ===>Done, exactly(K) = atMost(K) - atMost(K-1) type
 930. Binary Subarrays With Sum ======> Done, exactly(K) = atMost(K) - atMost(K-1) type
 
+Longest Substring Without Repeating Characters
+LintCode 928. Longest Substring with At Most Two Distinct Characters ==> Done, atMost(2), https://www.lintcode.com/problem/928/
+LintCode 386. Longest Substring with At Most K Distinct Characters ===> Done, atMost(k), https://www.lintcode.com/problem/386/
 ==============================================================================
 304. Range Sum Query 2D - Immutable
 
@@ -24,9 +27,7 @@ exactly(K) = atMost(K) - atMost(K-1) type
 1314. Matrix Block Sum
 =======================================================
 Number of Substrings Containing All Three Characters
-Longest Substring Without Repeating Characters
-Longest Substring with At Most Two Distinct Characters
-Longest Substring with At Most K Distinct Characters
+
 Replace the Substring for Balanced String
 Max Consecutive Ones III
 

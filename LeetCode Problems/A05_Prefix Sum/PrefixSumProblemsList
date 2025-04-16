@@ -8,15 +8,16 @@ Prefix Sum Questions
 523. Continuous Subarray Sum
 363. Max Sum of Rectangle No Larger Than K
 =============================================================================
-exactly(K) = atMost(K) - atMost(K-1) type
-------------------------------------------
+exactly(K) = atMost(K) - atMost(K-1) type//atMost(k)
+-----------------------------------------------------
 992. Subarrays with K Different Integers   ===> Done, exactly(K) = atMost(K) - atMost(K-1) type
 1248. Count Number of Nice Subarrays   ===>Done, exactly(K) = atMost(K) - atMost(K-1) type
 930. Binary Subarrays With Sum ======> Done, exactly(K) = atMost(K) - atMost(K-1) type
 
-Longest Substring Without Repeating Characters
 LintCode 928. Longest Substring with At Most Two Distinct Characters ==> Done, atMost(2), https://www.lintcode.com/problem/928/
 LintCode 386. Longest Substring with At Most K Distinct Characters ===> Done, atMost(k), https://www.lintcode.com/problem/386/
+
+LeetCode 3. Longest Substring Without Repeating Characters  ===> Done
 ==============================================================================
 304. Range Sum Query 2D - Immutable
 

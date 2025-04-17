@@ -4,9 +4,12 @@ Prefix Sum Questions
                                 |=> By using Binary Search --> Done
                                 |=> By using Prefix Sum --> Done
 
+209. Minimum Size Subarray Sum   =====> Done
 560. Subarray Sum Equals K  =======> Done
-523. Continuous Subarray Sum
-363. Max Sum of Rectangle No Larger Than K
+LintCode 911 · Maximum Size Subarray Sum Equals k  ===> Done
+LeetCode 325.  Maximum Size Subarray Sum Equals k  =====> Done
+
+
 =============================================================================
 exactly(K) = atMost(K) - atMost(K-1) type//atMost(k)
 -----------------------------------------------------
@@ -21,8 +24,10 @@ LintCode 386. Longest Substring with At Most K Distinct Characters ===> Done, at
 LeetCode 3. Longest Substring Without Repeating Characters  ===> Done
 Leetcode 1358. Number of Substrings Containing All Three Characters  ==> Done
 
+==========================================================================
 
-
+523. Continuous Subarray Sum
+363. Max Sum of Rectangle No Larger Than K
 304. Range Sum Query 2D - Immutable
 
 689. Maximum Sum of 3 Non-Overlapping Subarrays
@@ -37,9 +42,9 @@ Max Consecutive Ones III
 
 Fruit Into Baskets
 862. Shortest Subarray with Sum at Least K
-209. Minimum Size Subarray Sum   =====> Done
+
 76. Minimum Window Substring
-325. Maximum Size Subarray Sum Equals k
+
 718. Maximum Length of Repeated Subarray
 Minimum Size Subarray Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/solutions/186683/c-java-python-sliding-window-o-1-space/

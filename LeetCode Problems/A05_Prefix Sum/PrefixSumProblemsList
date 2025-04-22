@@ -25,7 +25,8 @@ LintCode 386. Longest Substring with At Most K Distinct Characters ===> Done, at
 ==============================================================================
 LeetCode 3. Longest Substring Without Repeating Characters  ===> Done
 Leetcode 1358. Number of Substrings Containing All Three Characters  ==> Done
-LeetCode 1234. Replace the Substring for Balanced String  ==> Done (IMP), 
+LeetCode 1234. Replace the Substring for Balanced String  ==> Done (IMP)
+LeetCode 1004. Max Consecutive Ones III  ==> Done
 ==========================================================================
 2772. Apply Operations to Make All Array Elements Equal to Zero
 2121. Intervals Between Identical Elements
@@ -40,9 +41,6 @@ LeetCode 1234. Replace the Substring for Balanced String  ==> Done (IMP),
 1074. Number of Submatrices That Sum to Target
 1314. Matrix Block Sum
 =======================================================
-
-
-Max Consecutive Ones III
 
 Fruit Into Baskets
 862. Shortest Subarray with Sum at Least K

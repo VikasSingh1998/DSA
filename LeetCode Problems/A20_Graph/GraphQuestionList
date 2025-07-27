@@ -6,8 +6,9 @@ LC 130. Surrounded Regions  ===> DFS(), BFS(Done)
 LC 695. Max Area of Island  ===> DFS(), BFS(Done)
 LC 3619. Count Islands With Total Value Divisible by K ==> DFS(), BFS()
 LC 2658. Maximum Number of Fish in a Grid  ==> DFS(), BFS()
+LC 1992. Find All Groups of Farmland ==> 
 LC 463. Island Perimeter  ==> 
-
+LC 2101. Detonate the Maximum Bombs ==> 
 
 ==============================================================================
 2316. Count Unreachable Pairs of Nodes in an Undirected Graph

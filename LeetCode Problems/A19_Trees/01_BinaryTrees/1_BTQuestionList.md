@@ -15,3 +15,7 @@ Parent child relation type questions
 1373. Maximum Sum BST in Binary Tree 👉 [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)  
 333. Largest BST Subtree 👉 [333. Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/description/)  
 834. Sum of Distances in Tree 👉 [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
+
+1120. Maximum Average Subtree 👉 [1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/)  
+508. Most Frequent Subtree Sum 👉 [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)  
+124. Binary Tree Maximum Path Sum 👉 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)

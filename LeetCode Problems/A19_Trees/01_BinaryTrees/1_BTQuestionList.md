@@ -18,10 +18,7 @@ Maximum Average Subtree 👉 [1120. Maximum Average Subtree](https://leetcode.co
 Most Frequent Subtree Sum 👉 [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)  
 Binary Tree Maximum Path Sum 👉 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)  
 
----
-
-Additional Google / High-Level Tree DP Questions
-------------------------------------------------
+---------------------------------
 
 Diameter of Binary Tree 👉 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)  
 Path Sum II 👉 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)  

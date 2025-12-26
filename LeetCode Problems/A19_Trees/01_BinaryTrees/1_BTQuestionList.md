@@ -32,6 +32,9 @@ Maximum Product of Splitted Binary Tree 👉 [1339. Maximum Product of Splitted 
 Find Leaves of Binary Tree 👉 [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/description/)  
 Maximum Level Sum of a Binary Tree 👉 [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)  
 Binary Tree Level Order Traversal 👉 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)  
+
 Binary Tree Longest Consecutive Sequence 👉 [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/)  
+LintCode -> Binary Tree Longest Consecutive Sequence 👉 [595. Binary Tree Longest Consecutive Sequence](https://www.lintcode.com/problem/595/description)  
+
 Binary Tree Longest Consecutive Sequence II 👉 [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/)  
 Maximum Difference Between Node and Ancestor 👉 [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)

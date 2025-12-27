@@ -1,6 +1,8 @@
 Easy Level
 ----------
 Binary Tree Level Order Traversal 👉 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)  
+Maximum Level Sum of a Binary Tree 👉 [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)  
+
 
 
 Parent–Child / Tree DP Questions
@@ -35,7 +37,6 @@ All Nodes Distance K in Binary Tree 👉 [863. All Nodes Distance K in Binary Tr
 Smallest Subtree with all the Deepest Nodes 👉 [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/)  
 Maximum Product of Splitted Binary Tree 👉 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)  
 Find Leaves of Binary Tree 👉 [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/description/)  
-Maximum Level Sum of a Binary Tree 👉 [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)  
 
 Binary Tree Longest Consecutive Sequence 👉 [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/)  
 LintCode -> Binary Tree Longest Consecutive Sequence 👉 [595. Binary Tree Longest Consecutive Sequence](https://www.lintcode.com/problem/595/description)  

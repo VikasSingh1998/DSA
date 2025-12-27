@@ -51,7 +51,7 @@ Smallest Subtree with all the Deepest Nodes 👉 [865. Smallest Subtree with all
 Maximum Product of Splitted Binary Tree 👉 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)  
 
 Find Leaves of Binary Tree 👉 [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/description/)  
-Find Leaves of Binary Tree 👉 [650 · Find Leaves of Binary Tree](https://www.lintcode.com/problem/650/)  
+LintCode -> Find Leaves of Binary Tree 👉 [650 · Find Leaves of Binary Tree](https://www.lintcode.com/problem/650/)  
 
 Binary Tree Longest Consecutive Sequence 👉 [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/)  
 LintCode -> Binary Tree Longest Consecutive Sequence 👉 [595. Binary Tree Longest Consecutive Sequence](https://www.lintcode.com/problem/595/description)  

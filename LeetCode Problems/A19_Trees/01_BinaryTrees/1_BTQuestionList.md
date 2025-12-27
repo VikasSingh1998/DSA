@@ -37,7 +37,7 @@ Binary Tree Longest Consecutive Sequence 👉 [298. Binary Tree Longest Consecut
 LintCode -> Binary Tree Longest Consecutive Sequence 👉 [595. Binary Tree Longest Consecutive Sequence](https://www.lintcode.com/problem/595/description)  
 
 Binary Tree Longest Consecutive Sequence II 👉 [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/)  
-LintCode -> Binary Tree Longest Consecutive Sequence II 👉 [614. Binary Tree Longest Consecutive Sequence](https://www.lintcode.com/problem/614/description)  
+LintCode -> Binary Tree Longest Consecutive Sequence II 👉 [614. Binary Tree Longest Consecutive Sequence II](https://www.lintcode.com/problem/614/description)  
 
 
 Maximum Difference Between Node and Ancestor 👉 [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)

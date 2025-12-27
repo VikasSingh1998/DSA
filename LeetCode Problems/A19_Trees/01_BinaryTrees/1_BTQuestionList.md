@@ -2,7 +2,8 @@ Easy Level
 ----------
 Binary Tree Level Order Traversal 👉 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)  
 Maximum Level Sum of a Binary Tree 👉 [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)  
-
+Find Largest Value in Each Tree Row 👉 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)  
+Find Largest Value in Each Tree Row 👉 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)  
 
 
 Parent–Child / Tree DP Questions

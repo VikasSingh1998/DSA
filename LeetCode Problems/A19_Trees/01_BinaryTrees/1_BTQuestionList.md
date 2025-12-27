@@ -12,10 +12,10 @@ Easy Level
 662 Maximum Width of Binary Tree 👉 [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)  
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-1145. Binary Tree Coloring Game 👉 [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)  
-2265. Count Nodes Equal to Average of Subtree 👉 [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)  
-652. Find Duplicate Subtrees 👉 [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)  
-563. Binary Tree Tilt 👉 [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)  
+1145 Binary Tree Coloring Game 👉 [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/)  
+2265 Count Nodes Equal to Average of Subtree 👉 [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)  
+652 Find Duplicate Subtrees 👉 [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)  
+563 Binary Tree Tilt 👉 [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)  
 
 
 Parent–Child / Tree DP Questions

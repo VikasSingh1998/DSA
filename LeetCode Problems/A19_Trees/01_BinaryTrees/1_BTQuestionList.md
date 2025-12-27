@@ -4,6 +4,7 @@ Easy Level
 1161 Maximum Level Sum of a Binary Tree 👉 [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)  
 515 Find Largest Value in Each Tree Row 👉 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)  
 637 Average of Levels in Binary Tree 👉 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)  
+104. Maximum Depth of Binary Tree 👉 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)  
 
 199 Binary Tree Right Side View 👉 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)  
 103 Binary Tree Zigzag Level Order Traversal 👉 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)  

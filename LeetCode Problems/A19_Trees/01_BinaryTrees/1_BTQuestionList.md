@@ -41,7 +41,6 @@ Binary Tree Maximum Path Sum 👉 [124. Binary Tree Maximum Path Sum](https://le
 
 ---------------------------------
 
-Diameter of Binary Tree 👉 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)  
 Path Sum II 👉 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)  
 Sum Root to Leaf Numbers 👉 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)  
 Path Sum III 👉 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)  
@@ -50,6 +49,7 @@ Subtree of Another Tree 👉 [572. Subtree of Another Tree](https://leetcode.com
 All Nodes Distance K in Binary Tree 👉 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)  
 
 ------------------------------------------------
+543. Diameter of Binary Tree 👉 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)  
 865. Smallest Subtree with all the Deepest Nodes 👉 [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/)  
 1123. Lowest Common Ancestor of Deepest Leaves 👉 [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/)  
 

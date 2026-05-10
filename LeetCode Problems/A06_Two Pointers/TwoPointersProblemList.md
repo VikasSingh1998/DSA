@@ -1,7 +1,10 @@
 Question Completed
 ----------------------
-[LC 26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
-======================================
+
+
+Remove Duplicates from Sorted Array  👉 [GFG Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+
 ======================================
 EASY LEVEL
 1. Two Sum II – Input Array Is Sorted

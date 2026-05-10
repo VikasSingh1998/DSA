@@ -1,8 +1,6 @@
 Question Completed
 ----------------------
-
-
-Remove Duplicates from Sorted Array  👉 [GFG Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+LC 26 Remove Duplicates from Sorted Array  👉 [LC Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 
 ======================================
